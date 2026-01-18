@@ -1,0 +1,7 @@
+{
+  "name": " Gemini Gen",
+  "description": "A powerful AI text-to-speech generator using Gemini 2.5 Flash TTS capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
